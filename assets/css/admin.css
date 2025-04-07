@@ -1,0 +1,15 @@
+.string-replacement-settings .wp-list-table {
+    margin-top: 1em;
+}
+
+.string-replacement-settings input[type="text"] {
+    width: 100%;
+}
+
+.string-replacement-settings .remove-row {
+    color: #a00;
+}
+
+.string-replacement-settings .remove-row:hover {
+    color: #dc3232;
+}
